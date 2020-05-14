@@ -1,0 +1,7 @@
+display_name	PSP0000
+loading_time	3
+emulator_type	6
+genre	0
+production	
+year	2020
+support_xbr	0

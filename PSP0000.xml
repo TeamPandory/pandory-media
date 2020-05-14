@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game emulator="6" name="PSP0000">
+    <information>
+        <description>PSP controller config</description>
+        <cloneof/>
+        <language>EN</language>
+        <year>2020</year>
+        <manufacturer>Pandory</manufacturer>
+        <player>1-2</player>
+        <genre>0</genre>
+        <bootleg>false</bootleg>
+    </information>
+    <file>
+	<rom name="PSP0000.iso"/>
+	<rom name="controls0.ini"/>
+	<rom name="controls1.ini"/>
+	<rom name="controls2.ini"/>
+	<rom name="controls3.ini"/>
+	<rom name="controls4.ini"/>
+	<rom name="controls5.ini"/>
+	<rom name="controls6.ini"/>
+	<rom name="controls7.ini"/>
+	<rom name="controls8.ini"/>
+	<rom name="controls9.ini"/>
+	<rom name="ppsspp0.ini"/>
+	<rom name="ppsspp1.ini"/>
+	<rom name="ppsspp2.ini"/>
+	<rom name="ppsspp3.ini"/>
+	<rom name="ppsspp4.ini"/>
+	<rom name="ppsspp5.ini"/>
+	<rom name="ppsspp6.ini"/>
+	<rom name="ppsspp7.ini"/>
+	<rom name="ppsspp8.ini"/>
+	<rom name="ppsspp9.ini"/>
+	<rom name="ppsspp10.ini"/>
+	<rom name="notice.ini"/>
+    </file>
+    <translation>
+        <string language="EN">
+            <name>Pandory PSP Config</name>
+            <detail>Inject PSP configuration to the Pandora unit</detail>
+        </string>
+    </translation>
+    <config>
+        <flag>0</flag>
+        <load_time>3</load_time>
+        <free_play>true</free_play>
+        <save_state>true</save_state>
+        <start_directly>false</start_directly>
+    </config>
+</game>
