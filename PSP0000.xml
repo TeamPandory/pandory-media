@@ -34,6 +34,14 @@
 	<rom name="ppsspp8.ini"/>
 	<rom name="ppsspp9.ini"/>
 	<rom name="ppsspp10.ini"/>
+	    
+	<rom name="KeyRecordpes2012.ini"/>
+	<rom name="KeyRecordMortalKombat.ini"/>
+	<rom name="KeyRecordMortalKombat.ini"/>
+	<rom name="KeyRecordSoulcaliburBrokenDestiny.ini"/>
+	<rom name="KeyRecordTK5.ini"/>
+	<rom name="KeyRecordtk6.ini"/>	    
+	<rom name="KeyRecordWWEAllStar.ini"/>
 
 	<rom name="ULAS42289_1.00_0.ini"/>
 	<rom name="ULAS42289_1.00_1.ini"/>
