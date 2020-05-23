@@ -74,6 +74,15 @@
 		<rom name="ULUS10579_1.01_1.ini"/>
 		<rom name="ULUS10579_2p.ini"/>
 
+		<rom name="KeyRecordMortalKombat.ini" />
+		<rom name="KeyRecordpes2012.ini" />
+		<rom name="KeyRecordSoulcaliburBrokenDestiny.ini" />
+		<rom name="KeyRecordSoulEater.ini" />
+		<rom name="KeyRecordTK5.ini" />
+		<rom name="KeyRecordtk6.ini" />
+		<rom name="KeyRecordWeekly.ini" />
+		<rom name="KeyRecordWWEAllStar.ini" />
+
 		<rom name="notice.ini"/>
 
     </file>
