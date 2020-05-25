@@ -83,6 +83,9 @@
 		<rom name="KeyRecord_Weekly.ini" />
 		<rom name="KeyRecord_WWEAllStar.ini" />
 
+		<rom name="MegaManX_vid.ini" />
+		<rom name="StreetFighterAlpha3Max_vid.ini" />
+
 		<rom name="notice.ini"/>
 
     </file>
